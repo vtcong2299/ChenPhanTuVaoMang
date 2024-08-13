@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\bin\Debug\net8.0\ChenPhanTuVaoMang.exe
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\bin\Debug\net8.0\ChenPhanTuVaoMang.deps.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\bin\Debug\net8.0\ChenPhanTuVaoMang.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\bin\Debug\net8.0\ChenPhanTuVaoMang.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\bin\Debug\net8.0\ChenPhanTuVaoMang.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\obj\Debug\net8.0\ChenPhanTuVaoMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\obj\Debug\net8.0\ChenPhanTuVaoMang.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\obj\Debug\net8.0\ChenPhanTuVaoMang.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\obj\Debug\net8.0\ChenPhanTuVaoMang.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\obj\Debug\net8.0\ChenPhanTuVaoMang.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\obj\Debug\net8.0\refint\ChenPhanTuVaoMang.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\obj\Debug\net8.0\ChenPhanTuVaoMang.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\obj\Debug\net8.0\ChenPhanTuVaoMang.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChenPhanTuVaoMang\obj\Debug\net8.0\ref\ChenPhanTuVaoMang.dll
